@@ -2,4 +2,8 @@ Here is the first line.
 usr2 has made a change.
 Merge conflict ensured.
 Oh how simple it all is.
+<<<<<<< HEAD
+AGAIN! Usr 1 changes this
+=======
 USR 2 changes this.
+>>>>>>> remotes/origin/master
